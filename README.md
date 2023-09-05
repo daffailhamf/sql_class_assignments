@@ -22,7 +22,7 @@ Here are the questions and tasks:
 ## Assignment 2 (Day 30 - 8th Meeting)
 
 **INSTRUCTION**
-- For number 1-3, please use the "kelas_sql" database.
+- For number 1-3, please use the "data_kelas" database.
 - For number 2-8, please use the "3_odds" database.
 
 Here are the questions and tasks:
