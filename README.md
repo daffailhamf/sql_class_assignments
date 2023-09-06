@@ -32,8 +32,8 @@ Here are the questions and tasks:
 3. Present the highest sales information that was successfully carried out by each branch.
 4. Create a query to get information about the names of employees who handle more than 7 customers.
 5. Using CTEs. Make a query to get the number of employees from every country other than America.
-6. Make a statement to get the customer's continent of origin based on the country information. For example, if the name of the country is USA then the continent is America.
-7. Make a statement to categorize the average price of goods (priceEach). If the price of the item is above 100 then it is included in the High price category, otherwise it is included in the low-price category.
+6. Create a stored function to get the customer's continent of origin based on the country information. For example, if the name of the country is USA then the continent is America.
+7. Create a stored function to categorize the average price of goods (priceEach). If the price of the item is above 100 then it is included in the High price category, otherwise it is included in the low-price category.
 8. Create a stored function that can categorize customers based on their credit limit. If the credit limit is more than 50000 then it is included in the PLATINUM category, if it is in the range of 10000 to 50000 then it is in the GOLD category, and below 10000, it is entered in the SILVER category. Using the function that has been created, display customer segmentation information in the customers' table.
 
 Feel free to explore the assignments and their solutions.
