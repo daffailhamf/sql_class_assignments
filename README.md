@@ -6,7 +6,7 @@ Welcome to my SQL class assignment repository! This repository contains assignme
 
 **INSTRUCTION**
 - For number 1, please refer to the pict on the learning platform.
-- For number 2-8, please use the "employees_and_salaries_data" database.
+- For number 2-8, please use the "employees" and "salaries" table.
 
 Here are the questions and tasks:
 
